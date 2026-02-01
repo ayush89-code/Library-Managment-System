@@ -24,19 +24,18 @@
 ## 📂 **Exact Project Structure**
 
 Lirary-Management-System/
-├── pom.xml # Maven configuration
+week3-library-system/
+├── pom.xml
 ├── src/
-│ └── main/
-│ └── java/
-│ └── library/ # Java package
-│ ├── Main.java
-│ ├── Book.java
-│ ├── Member.java
-│ ├── Library.java
-│ └── FileHandler.java
-├── data/ # Auto-generated
-│ ├── books.txt
-│ └── members.txt
+│   └── main/
+│       └── java/
+│           └── library/           ← PACKAGE FOLDER
+│               ├── Main.java
+│               ├── Book.java
+│               ├── Member.java
+│               ├── Library.java
+│               └── FileHandler.java
+├── data/
 ├── README.md
 └── .gitignore
 
