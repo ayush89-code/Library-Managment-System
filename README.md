@@ -22,9 +22,8 @@
 ---
 
 ## 📂 **Exact Project Structure**
-`
-Lirary-Management-System/
-week3-library-system/
+```
+Library-Managment_System/
 ├── pom.xml
 ├── src/
 │   └── main/
@@ -38,7 +37,7 @@ week3-library-system/
 ├── data/
 ├── README.md
 └── .gitignore
-`
+```
 ---
 
 ## 🚀 **Quick Start** (3 Commands)
