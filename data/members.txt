@@ -1,0 +1,3 @@
+memberId|name|borrowedBooks|totalFines
+M001|John Doe|978-0321356680,|2.50
+M002|Jane Smith||0.00

@@ -1,0 +1,4 @@
+isnbde25545|Consise description java|Ayush Mourya|true|
+ISBN|Title|Author|available|reservedBy
+978-0134685991|Clean Code|Robert C. Martin|true|
+978-0321356680|Design Patterns|Erich Gamma|false|M001
